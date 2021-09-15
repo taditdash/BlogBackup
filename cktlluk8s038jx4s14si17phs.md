@@ -215,7 +215,7 @@ function getVeeValidateLocale (locale) {
     'default': en
   };
 
-  return veeValidateLocales[locale];
+  return veeValidateLocales[locale] || veeValidateLocales['default'];
 }
 
 ```
