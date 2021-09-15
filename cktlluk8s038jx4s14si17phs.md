@@ -228,7 +228,7 @@ This can be optimized more as the name and value are the same except the default
 function getVeeValidateLocale (locale) {
   const veeValidateLocales = { en, de, es, 'default': en };
 
-  return veeValidateLocales[locale];
+  return veeValidateLocales[locale] || veeValidateLocales['default'];
 }
 ```
 
