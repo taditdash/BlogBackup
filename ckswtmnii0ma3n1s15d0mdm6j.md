@@ -84,4 +84,4 @@ Comments are appreciated as always. :)
 ## It takes 7 Days to learn Vue.js
 
 Yes, you heard that right. I have co-authored a book that comprehensively takes you in a 7 days journey to learn the basics of Vue.js. You can buy that from [Amazon.com](https://www.amazon.com/gp/product/9388511867/ref=dbs_a_def_rwt_bibl_vppi_i1) or [Amazon.in](https://www.amazon.in/Learn-Vue-js-Days-Journey-through/dp/9388511867/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) or [BPB Official Website](https://bpbonline.com/products/learn-vue-js-in-7-days).  
-More at - [https://taditdash.co.in/books/#Vue.js-7Days](https://taditdash.co.in/books/#Vue.js-7Days)
+More at - [https://taditdash.co.in/#Vuejs7Days](https://taditdash.co.in/#Vuejs7Days)
