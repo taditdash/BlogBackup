@@ -1,6 +1,5 @@
 ## Configure Vee Validate for Localisation using Vue I18N Library
 
-# Introduction
 In this blog, we will learn how to configure `vee-validate` library so that it would work for translations with the internationalization library `vue-i18n`.
 
 # Background
