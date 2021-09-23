@@ -5,7 +5,7 @@ Interesting, isn't it? In JavaScript, `null` is an `object`. Here is the screens
 ![JavaScript-null-is-object.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1632410402713/LWPYGKvKv.png)
 
 ## Background ◀️
-I have started reading *You Don't Know JS* and in [chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch2.md), I get to know this and wanted to share this in a quick blog with all of you.
+I have started reading *You Don't Know JS* by [Mr. Kyle Simpson](https://github.com/getify) and in [chapter 2](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/up%20%26%20going/ch2.md), I got to know something interesting about `null` that I wanted to share in a quick blog with all of you.
 
 ## Why? 😮
 
