@@ -1,4 +1,4 @@
-## Vuetify Clear Fields on Dialog Open
+# Vuetify Clear Fields on Dialog Open
 
 In this blog, we will look into a simple technique to clear out fields when dialog or modal is opened in an application using Vue and Vuetify.
 
