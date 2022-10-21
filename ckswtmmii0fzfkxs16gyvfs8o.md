@@ -1,4 +1,4 @@
-## Vuetify Rounded Card Design
+# Vuetify Rounded Card Design
 
 The idea is to customize the corners of the `v-card` component in Vuetify so that it looks rounded. Let's see what is the impediment and how to overcome that easily.
 
