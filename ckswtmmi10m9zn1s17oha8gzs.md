@@ -1,4 +1,4 @@
-## Do you know that null is an object in JavaScript?
+# Do you know that null is an object in JavaScript?
 
 Interesting, isn't it? In JavaScript, `null` is an `object`. Here is the screenshot from _Chrome Developer Tool_.
 
