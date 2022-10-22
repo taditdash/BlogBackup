@@ -10,6 +10,6 @@ However, the instructor Predrag Klasnja has clarified my doubt and showed me new
 
 He has a very well-compiled course structure and I hope I will complete everything with good grades.
 
-That's it for today. Have a nice day. Read my other blogs [here](http://taditdash.co.in/blogs/).
+That's it for today. Have a nice day. Read my other blogs [here](http://blog.taditdash.com).
 
 Do let me know your thoughts on this topic. :)
