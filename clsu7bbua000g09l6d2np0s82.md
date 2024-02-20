@@ -3,6 +3,7 @@ title: "Digital Citizenship Celebration in Odisha on Community Day 2015"
 datePublished: Fri Oct 02 2015 12:00:43 GMT+0000 (Coordinated Universal Time)
 cuid: clsu7bbua000g09l6d2np0s82
 slug: digital-citizenship-celebration-in-odisha-on-community-day-2015
+tags: microsoft, school, odisha, digital-citizenship
 
 ---
 
