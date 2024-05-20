@@ -42,3 +42,7 @@ Don't miss this chance to jumpstart your career with MindBrain!
 ---
 
 For the latest updates on job openings and career tips, be sure to subscribe to [my newsletter](https://blog.taditdash.com/newsletter) and follow [my Instagram](https://www.instagram.com/taditdash/)!🌐📸
+
+Original Post
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1716221168042/72448843-2c89-4de6-82f7-714e8d2539a0.jpeg align="center")
